@@ -1,5 +1,5 @@
 # epam_stage_1
-Task 1 - NodeJS and Dependency Management \n
+Task 1 - NodeJS and Dependency Management <br>
 Task 2 - Continuous Integration with Jenkins
 Task 3 - Conditional Statements and Data Types
 Task 4 - Objects and Functions
